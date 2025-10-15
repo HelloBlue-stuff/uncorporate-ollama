@@ -5,40 +5,40 @@
 </div>
 
 # Ollama
-
+This is not the official Ollama repository.
 Get up and running with large language models.
+This version should not be used yet, work is still underway to remove things.
 
 ### macOS
 
-[Download](https://ollama.com/download/Ollama.dmg)
+coming soon, as soon as i get an acceptable version
 
 ### Windows
 
-[Download](https://ollama.com/download/OllamaSetup.exe)
+coming soon, as soon as i get an acceptable version
 
 ### Linux
 
-```shell
-curl -fsSL https://ollama.com/install.sh | sh
-```
-
-[Manual install instructions](https://github.com/ollama/ollama/blob/main/docs/linux.md)
+coming soon, as soon as i get an acceptable version
 
 ### Docker
 
-The official [Ollama Docker image](https://hub.docker.com/r/ollama/ollama) `ollama/ollama` is available on Docker Hub.
+The official [Ollama Docker image](https://hub.docker.com/r/ollama/ollama) `ollama/ollama` is available on Docker Hub. But that's not this version.
+I probably won't publish this to Docker.
 
 ### Libraries
-
+Note: these are provided by official Ollama, not me.
 - [ollama-python](https://github.com/ollama/ollama-python)
 - [ollama-js](https://github.com/ollama/ollama-js)
 
 ### Community
+Note: these are provided by official Ollama, not me.
 
 - [Discord](https://discord.gg/ollama)
 - [Reddit](https://reddit.com/r/ollama)
 
 ## Quickstart
+Note: these are provided by official Ollama, not me.
 
 To run and chat with [Gemma 3](https://ollama.com/library/gemma3):
 
@@ -47,6 +47,7 @@ ollama run gemma3
 ```
 
 ## Model library
+Note: these are provided by official Ollama, not me.
 
 Ollama supports a list of models available on [ollama.com/library](https://ollama.com/library 'ollama model library')
 
